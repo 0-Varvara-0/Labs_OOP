@@ -1,0 +1,5 @@
+﻿  gtest-all.cc
+C:\Users\user\Downloads\googletest-1.15.2\googletest-1.15.2\googletest\src\gtest-all.cc(38,10): error C1083: Не удается открыть файл включение: gtest/gtest.h: No such file or directory,
+  gtest_main.cc
+C:\Users\user\Downloads\googletest-1.15.2\googletest-1.15.2\googletest\src\gtest_main.cc(32,10): error C1083: Не удается открыть файл включение: gtest/gtest.h: No such file or directory,
+  Создание кода...

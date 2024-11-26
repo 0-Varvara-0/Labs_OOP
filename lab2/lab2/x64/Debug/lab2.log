@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Users\user\source\repos\lab2\lab2\World.h(32,34): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "Main.cpp")
+  
+  lab2.cpp
+C:\Users\user\source\repos\lab2\lab2\World.h(32,34): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "lab2.cpp")
+  
+  Создание кода...
+  lab2.vcxproj -> C:\Users\user\source\repos\lab2\x64\Debug\lab2.exe
