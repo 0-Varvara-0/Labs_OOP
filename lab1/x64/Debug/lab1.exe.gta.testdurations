@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\user\source\repos\lab1\x64\Debug\lab1.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="BitArrayTest.ConstructorAndToString" Duration="1" />
+    <TestDuration Test="BitArrayTest.Set" Duration="1" />
+    <TestDuration Test="BitArrayTest.FillFalse" Duration="1" />
+    <TestDuration Test="BitArrayTest.FillTrue" Duration="1" />
+    <TestDuration Test="BitArrayTest.AndAssign" Duration="1" />
+    <TestDuration Test="BitArrayTest.OrAssign" Duration="1" />
+    <TestDuration Test="BitArrayTest.XorAssign" Duration="1" />
+    <TestDuration Test="BitArrayTest.LeftShiftAssign" Duration="1" />
+    <TestDuration Test="BitArrayTest.RightShiftAssign" Duration="1" />
+    <TestDuration Test="BitArrayTest.IndexOperator" Duration="1" />
+    <TestDuration Test="BitArrayTest.Any" Duration="1" />
+    <TestDuration Test="BitArrayTest.None" Duration="1" />
+    <TestDuration Test="BitArrayTest.Empty" Duration="1" />
+    <TestDuration Test="BitArrayTest.Count" Duration="1" />
+    <TestDuration Test="BitArrayTest.Size" Duration="1" />
+    <TestDuration Test="BitArrayTest.Swap" Duration="1" />
+    <TestDuration Test="BitArrayTest.Resize" Duration="1" />
+    <TestDuration Test="BitArrayTest.PushBack" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
