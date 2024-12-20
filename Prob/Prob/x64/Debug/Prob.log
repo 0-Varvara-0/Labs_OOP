@@ -1,0 +1,6 @@
+﻿  a.cpp
+C:\Users\user\source\repos\Prob\Prob\a.cpp(43,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\Prob\Prob\a.cpp(74,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\Prob\Prob\a.cpp(166,14): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\Prob\Prob\a.cpp(168,15): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Prob.vcxproj -> C:\Users\user\source\repos\Prob\x64\Debug\Prob.exe
