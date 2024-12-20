@@ -1,0 +1,2 @@
+﻿Prob.obj : error LNK2005: main уже определен в Contr1.obj
+C:\Users\user\source\repos\Contr\x64\Debug\Contr.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
